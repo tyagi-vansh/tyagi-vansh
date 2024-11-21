@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tyagi-vansh/Portfolio](https://github.com/tyagi-vansh/Portfolio)
 
-- 💬 Ask me about **Java,Jdbc,DSA**
+- 💬 Ask me about **Java,Jdbc,DSA,Spring-Boot**
 
 - 📫 How to reach me **er.vanshtyagi@gmail.com**
 
